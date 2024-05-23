@@ -1,0 +1,8 @@
+[
+  {
+    "Name": "Stable Diffusion 原版优化 VAE",
+    "Desc": "Stable Diffusion 原版优化 VAE 840000 vae ft mse",
+    "Hash": "",
+    "Url": "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
+  }
+]

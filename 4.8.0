@@ -1,0 +1,12 @@
+Looking in indexes: https://mirrors.cloud.tencent.com/pypi/simple
+Requirement already satisfied: opencv-python in e:\stable-diffusion-webui\python\lib\site-packages (4.6.0.66)
+Collecting opencv-python
+  Downloading https://mirrors.cloud.tencent.com/pypi/packages/c7/ec/9dabb6a9abfdebb3c45b0cc52dec901caafef2b2c7e7d6a839ed86d81e91/opencv_python-4.9.0.80-cp37-abi3-win_amd64.whl (38.6 MB)
+     ---------------------------------------- 38.6/38.6 MB 8.3 MB/s eta 0:00:00
+Requirement already satisfied: numpy>=1.17.3 in e:\stable-diffusion-webui\python\lib\site-packages (from opencv-python) (1.23.3)
+Installing collected packages: opencv-python
+  Attempting uninstall: opencv-python
+    Found existing installation: opencv-python 4.6.0.66
+    Uninstalling opencv-python-4.6.0.66:
+      Successfully uninstalled opencv-python-4.6.0.66
+Successfully installed opencv-python-4.9.0.80

@@ -1,0 +1,21 @@
+[
+    {
+        "Name": "Stable Diffusion 1.5",
+        "Desc": "SD 原版模型 1.5，写实风格",
+        "Hash": "",
+        "Len": "",
+        "Url": "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors"
+    },
+     {
+        "Name": "Stable Diffusion-Inpainting 1.5",
+        "Desc": "SD 原版模型 1.5 图生图修图模型，写实风格",
+        "Hash": "",      
+        "Url": "https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors"
+    },  
+    {
+        "Name": "Anything v3",
+        "Desc": "二次元模型 优化版",
+        "Hash": "308884898741f81f4dbe32a7806a26c28b594d8ea21310fbed5c5dcecff6aa32",
+        "Url": "https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/anything-v3-fp32-pruned.safetensors"
+    }
+]
